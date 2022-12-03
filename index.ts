@@ -1,3 +1,3 @@
-import { day2 } from "./src/days";
+import { day3 } from "./src/days";
 
-console.log(day2()!.part2);
+console.log(day3()!.part2);
